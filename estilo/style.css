@@ -8,8 +8,8 @@
     }
 main{
     background-color: white;
-    height: 100px;
-    width: 500px;
+    height: 300px;
+    width: 700px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0,);
@@ -19,8 +19,9 @@ main{
 
     #bloco{
         background-color: white;
-        width: 500px;
-         margin: auto;
+        height: 300px;
+        width: 700px;
+        margin: auto;
         padding: 10px;
         justify-items: center;
         box-shadow: 3px 3px 5px rgba(0, 0, 0,);
@@ -29,5 +30,22 @@ main{
 
 #titulo{
 color: red;
+float: right;
+font-size: 20px ;
+box-shadow: black;
 
+}
+
+img.lado {
+float: right;
+width: 110px;
+height: 100px;
+
+
+}
+
+img#logo{
+    width: 150px;
+    
+    justify-items: center;
 }
