@@ -8,12 +8,24 @@
     }
 main{
     background-color: white;
+    height: 100px;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0,);
     
     }
+
+
+    #bloco{
+        background-color: white;
+        width: 500px;
+         margin: auto;
+        padding: 10px;
+        justify-items: center;
+        box-shadow: 3px 3px 5px rgba(0, 0, 0,);
+        
+        }
 
 #titulo{
 color: red;
